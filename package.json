@@ -2,6 +2,7 @@
   "name": "lumdb",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://payello.github.io/movie_db/",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.1",
@@ -22,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
